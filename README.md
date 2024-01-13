@@ -8,7 +8,7 @@ This Todo List project is designed to help you keep track of your tasks and stay
 
 **Features:**\
 
---Create, edit, and delete tasks
+--Create, edit, and delete tasks\
 --Mark tasks as completed
 
 **Technologies:**\
